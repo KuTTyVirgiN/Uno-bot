@@ -36,7 +36,7 @@ class Game(object):
     starter = None
     mode = DEFAULT_GAMEMODE
     job = None
-    owner = ADMIN_LIST
+    owner = []
     open = OPEN_LOBBY
     translate = ENABLE_TRANSLATIONS
 
